@@ -1,5 +1,5 @@
 # jRotator
 Bitcoin faucet rotator
 
-Donations are appreciated :)
-1Josefnjhis1NS5XPTvZh4cuoJK2nPKvru
+Donations are appreciated :)__
+BTC: 1Josefnjhis1NS5XPTvZh4cuoJK2nPKvru
