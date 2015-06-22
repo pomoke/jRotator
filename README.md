@@ -1,0 +1,2 @@
+# jRotator
+Bitcoin faucet rotator
