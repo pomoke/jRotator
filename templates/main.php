@@ -10,8 +10,8 @@
     </div>
     <h3>What is Bitcoin?</h3>
     <p>Bitcoin is the first decentralized digital currency. Bitcoins are digital coins you can send through the internet. Compare to other alternatives Bitcoins have a number of advantages. Bitcoins are transferred directly from person to person within the net without going through a bank or a clearing house. This means that the fees are much lower.</p>
-    <h3>What is Halving Rotator?</h3>
-    <p>Halving is a Bitcoin Rotator website which you can browse other free Bitcoin faucet easily.</p>
+    <h3>What is <? php echo $siteName; ?></h3>
+    <p><? php echo $siteName; ?> is a Bitcoin Rotator website which you can browse other free Bitcoin faucet easily.</p>
     <h3>How to start?</h3>
     <p>You can start by clicking the "Start" button above. You can also browse our list through "Browse" button too!</p>
   </div>
